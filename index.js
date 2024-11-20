@@ -7,7 +7,7 @@ const port = 8000;
 const username = 'antoine';
 const password = '123!'; // Replace with your actual password
 const server = 'https://digimidi.fmcloud.fm';
-const database = 'DIGIMIDI_DEV';
+const database = 'MIRTH';
 const layout = 'dcm4chee';
 const script = 'dcm4chee_studyURL';
 
