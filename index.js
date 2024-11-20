@@ -9,7 +9,7 @@ const password = '123!'; // Replace with your actual password
 const server = 'https://digimidi.fmcloud.fm';
 const database = 'MIRTH';
 const layout = 'dcm4chee';
-const script = 'dcm4chee_studyURL';
+const script = 'dcm4cheestudyURL';
 
 // Middleware to parse JSON
 app.use(express.json());
